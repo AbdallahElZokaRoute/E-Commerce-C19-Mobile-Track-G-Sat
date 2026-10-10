@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Commerce C19-Mobile Track</string>
+    <string name="title_activity_ecommerce">ECommerceActivity</string>
+    <string name="greeting">أهلاً بالعالم</string>
+    <string name="app_development_logo">App Development Logo</string>
+</resources>
